@@ -5,8 +5,8 @@ This report is generated automatically during `mvn test` from Maven Surefire's J
 ## Execution details
 
 - **Application version:** 1.0.0
-- **Execution time:** 2026-10-30T13:36:08.494665285+02:00
-- **Environment:** Linux; Java 21.0.12.1
+- **Execution time:** 2026-10-30T14:10:22.064441217+02:00
+- **Environment:** Linux; Java 27-ea
 - **Command:** `mvn test`
 - **Scope:** Automated registration-service tests; the console UI is not exercised.
 
